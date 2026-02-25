@@ -30,5 +30,10 @@
     <scope>compile</scope>
 
 </dependency>
+  	<dependency>
+  		<groupId>com.test</groupId>
+  		<artifactId>SpringAOPExp1</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
