@@ -1,1 +1,1 @@
-# mla_interns
+# java projects 
